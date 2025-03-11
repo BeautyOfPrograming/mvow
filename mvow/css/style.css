@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    min-height: 80vh;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgba(0,0,0,.1);
+}
+
+.form-container {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
